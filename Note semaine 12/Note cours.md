@@ -1,4 +1,4 @@
-# 1ère partie de la matinée
+# 1ère partie de la matinée 
 
 - Avoir un portefolio, un git pour mettre en confiance l'employeur.
 - Un livrable est un texte rédigé proprement qui est cohérent et professionnel
@@ -13,7 +13,7 @@
 « T » pour Temporel
 
 
-# 2ème partie de la matinée
+# 2ème partie de la matinée 
 
 - Les jours hommes sont les rapports entre les unités temps et unité de ressource humaine
 - Une echelle temporel est la durée globale d'un projet
@@ -27,4 +27,25 @@
 - Prendre une clef microsoft project
 
 
+
+## 1ère partie de la matinée du 13/11/2024
+
+- les couts d'un projet est composé de salaire et prestation
+
+-Mode de facturation : Mensuelle, Abonnement...
+- Choisir le plus rentable
+- Certains projet commence à etre remplir qu'une fois que le projet est mis en production 
+
+- Gerer les entrée et les sorties durant un projet.
+- Le support utilisateur
+- Il y'a des coûts aditionnel comme : les formations, le marketing, frais commerciaux (pour le démarchage)
+- Presnter un tableau lors du passage des épreuves avec les salaires, prestations, marketing, support...
+
+- Un chef de projet doit s'assurer que la qualité de la solution ainsi que les délais sont respectés.
+- Un chef de projet doit tout documenter.
+- Les données personnel ne doivent pas etre commercé, faire attention lorsque l'on stock les données, faire attention ou on les stocks aussi.
+
+- Bien mettre visible le refus des cookies comme l'accepation sinon attaquable devant la justice.
+
+## 2ème partie de la matinée
 
