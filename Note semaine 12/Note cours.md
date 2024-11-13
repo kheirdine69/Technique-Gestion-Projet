@@ -53,5 +53,5 @@
 - Le modèle en V est une evolution en cascadee.
 - Le modèle itératif lui sont de mini cascades (mini sprint).
 - La partie source d'informations doit figurer sur des projets IT
--
--
+- Developper les KPI
+- 
