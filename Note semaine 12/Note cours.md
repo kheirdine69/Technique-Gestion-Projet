@@ -4,6 +4,14 @@
 - Un livrable est un texte rédigé proprement qui est cohérent et professionnel
 - Comment déterminer les limites d'un projet ? Lister les objectifs...
 
+- Quesque la méthode SMART : La méthode SMART est une approche de management basée sur le principe de se fixer des micro-objectifs, et les atteindre dans un délai prédéfini.
+
+« S » pour Spécifique
+« M » pour Mesurable
+« A » pour Atteignable
+« R » pour Réaliste
+« T » pour Temporel
+
 
 # 2ème partie de la matinée
 
@@ -17,5 +25,6 @@
 - A la fin du rapport inscrire sur quelles sites j'ai pu consulter mes données, les sources, les liens.
 - La phase de la negociation est souvent entammé 
 - Prendre une clef microsoft project
+
 
 
