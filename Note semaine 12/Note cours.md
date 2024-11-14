@@ -13,7 +13,7 @@
 « T » pour Temporel
 
 
-# 2ème partie de la matinée 12/11/2024
+# 2ème partie après midi 12/11/2024
 
 - Les jours hommes sont les rapports entre les unités temps et unité de ressource humaine
 - Une echelle temporel est la durée globale d'un projet
@@ -47,7 +47,7 @@
 
 - Bien mettre visible le refus des cookies comme l'accepation sinon attaquable devant la justice.
 
-## 2ème partie de la matinée 13/11/2024
+## 2ème partie après midi 13/11/2024
 
 - Un livrable est un partie de la solution que l'on peux présenter au clients.
 - Le modèle en V est une evolution en cascadee.
@@ -72,4 +72,8 @@
 - Product desginer = Est lié a l'experience utilisateur, design itératif...
 - Backlog = Toute les taches fonctionnel pour le projet, mis à jour en continu a chaque sprint. 
 - user story est une description d'une fonctionnalité de l'application avec le point de vue utilisateur
-- 
+- Un backlog contient toute les feature, tâches à réaliser
+- Un kanban est utile pour visualiser les différentes étapes d'un projet
+- Lead time = temps entre la commande et la livraison (le but du kanban est de réduire au maximum ce temps sans gaspillage).
+
+
