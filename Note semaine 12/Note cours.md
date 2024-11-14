@@ -70,4 +70,6 @@
 - Un product owner = augmenter la valeur business aux yeux du clients
 - Scrum master = Est garant de la rapidité, lui qui défini les sprint...
 - Product desginer = Est lié a l'experience utilisateur, design itératif...
-- Test
+- Backlog = Toute les taches fonctionnel pour le projet, mis à jour en continu a chaque sprint. 
+- user story est une description d'une fonctionnalité de l'application avec le point de vue utilisateur
+- 
