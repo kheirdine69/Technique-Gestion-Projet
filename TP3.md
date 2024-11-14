@@ -1,4 +1,3 @@
-
 ## 1.1
 - Annie : Responsable marketing et chef de projet
 - Guillaume : Informaticien désigné pour assister la chef de projet

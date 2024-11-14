@@ -1,4 +1,4 @@
-# 1ère partie de la matinée 
+# 1ère partie de la matinée 12/11/2024
 
 - Avoir un portefolio, un git pour mettre en confiance l'employeur.
 - Un livrable est un texte rédigé proprement qui est cohérent et professionnel
@@ -13,7 +13,7 @@
 « T » pour Temporel
 
 
-# 2ème partie de la matinée 
+# 2ème partie de la matinée 12/11/2024
 
 - Les jours hommes sont les rapports entre les unités temps et unité de ressource humaine
 - Une echelle temporel est la durée globale d'un projet
@@ -47,11 +47,27 @@
 
 - Bien mettre visible le refus des cookies comme l'accepation sinon attaquable devant la justice.
 
-## 2ème partie de la matinée
+## 2ème partie de la matinée 13/11/2024
 
 - Un livrable est un partie de la solution que l'on peux présenter au clients.
 - Le modèle en V est une evolution en cascadee.
 - Le modèle itératif lui sont de mini cascades (mini sprint).
 - La partie source d'informations doit figurer sur des projets IT
 - Developper les KPI
-- 
+
+
+## 1ère partie de la matinée du 14/11/2024
+
+- Mettre en place un cahier des charges avec un cadrage et des spécifications général. Il est représenté les besoins du projet dedans.
+-  Sortir des features (maj) souvent.
+- Bien détailler le cahier des charges avec du visuel des schémas.
+- Cahier des charges = responsabilité et garantie
+- CICD = Continue integration continue deploymenet = Livraison continue en FR
+
+## 2ème partie de la matinée du 14/11/2024
+
+- Le but de la methode agile est de limiter le retard sur les opérations non prévue comme des bugs, phase de test
+- Un product owner = augmenter la valeur business aux yeux du clients
+- Scrum master = Est garant de la rapidité, lui qui défini les sprint...
+- Product desginer = Est lié a l'experience utilisateur, design itératif...
+- Test
