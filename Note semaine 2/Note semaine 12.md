@@ -76,4 +76,20 @@
 - Un kanban est utile pour visualiser les différentes étapes d'un projet
 - Lead time = temps entre la commande et la livraison (le but du kanban est de réduire au maximum ce temps sans gaspillage).
 
+### Rôle du Delivery Manager :
+
+- Automatisation des processus
+- Coordination des équipes
+- Résolution des blocages
+- Facilitation du déploiement
+- Caractéristiques
+
+### L'Agilité c'est :
+
+- Une approche itérative
+- Un focus sur la satisfaction client
+- Une adaptation continue
+- Une collaboration active
+- Une livraison de valeur rapide
+- Une amélioration permanente
 
